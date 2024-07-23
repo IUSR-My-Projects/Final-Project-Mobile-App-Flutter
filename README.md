@@ -5,24 +5,24 @@
 Here are the images available in the `images` directory:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/11.jpg" alt="Profile page" width="200"/>
-  <img src="/images/22.jpg" alt="Tasks Page" width="200"/>
-  <img src="/images/33.jpg" alt="not found any task" width="200"/>
+  <img src="/images/11.jpg" alt="Profile page" width="200" style="margin-right: 10px;"/>
+  <img src="/images/22.jpg" alt="Tasks Page" width="200" style="margin-right: 10px;"/>
+  <img src="/images/33.jpg" alt="not found any task" width="200" />
 </div>
 </br>
 </br>
 </br>
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/44.jpg" alt="Projects page" width="200"/>
-  <img src="/images/55.jpg" alt="Home Page" width="200"/>
+  <img src="/images/44.jpg" alt="Projects page" width="200" style="margin-right: 10px;"/>
+  <img src="/images/55.jpg" alt="Home Page" width="200" style="margin-right: 10px;"/>
   <img src="/images/66.jpg" alt="Delete Project" width="200"/>
 </div>
 </br>
 </br>
 </br>
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/77.jpg" alt="Drawer widget" width="200"/>
-  <img src="/images/88.jpg" alt="Add new task" width="200"/>
+  <img src="/images/77.jpg" alt="Drawer widget" width="200" style="margin-right: 10px;"/>
+  <img src="/images/88.jpg" alt="Add new task" width="200" style="margin-right: 10px;"/>
 </div>
 
 
